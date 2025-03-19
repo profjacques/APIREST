@@ -1,5 +1,3 @@
----
-
 ### **APIs para Dados Gerais**  
 1. **JSONPlaceholder**  
    - **Descrição**: Simula dados de posts, usuários, comentários e todos.  
